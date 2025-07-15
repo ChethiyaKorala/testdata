@@ -1,0 +1,11 @@
+{
+  "heading": "NCCU Programme Schedule",
+  "subheading": "NCCU Programme Schedule",
+  "programmes": [
+    {"time": "8:00 AM", "title": "Morning Bulletin"},
+    {"time": "9:00 AM", "title": "Science Talk"},
+    {"time": "10:30 AM", "title": "Guest Interview"},
+    {"time": "12:00 PM", "title": "Midday News"},
+    {"time": "1:00 PM", "title": "Tech Update"}
+  ]
+}
